@@ -1,0 +1,19 @@
+.oddNo {
+    background-color: rgb(255,51,93);
+    font-family: Verdana, Geneva, sans-serif;
+}
+
+#segundo {
+    color: rgb(3,10,345);
+    font-size: 36px;
+}
+
+.tre-elem {
+    font-size: 24px;
+}
+
+#quatro {
+    background-color: rgb(50,245,3);
+    font-size: 24px;
+    font-weight: bold;
+}
