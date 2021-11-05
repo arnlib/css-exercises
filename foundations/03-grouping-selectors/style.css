@@ -1,0 +1,20 @@
+body {
+    text-align: center;
+}
+
+.btn-yes,
+.btn-no {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 45px;
+    border-radius: 0%;
+}
+
+.btn-yes {
+    background-color: black;
+    color: white;
+}
+
+.btn-no {
+    background-color: yellow;
+    color: black;
+}
